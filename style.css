@@ -11,13 +11,18 @@ text-align: center;
 color: #FFE1E0;
 }
 
- nav {
+ .menu{
     display: flex;
-    justify-content: space-around;
+    justify-content: space-between;
     width:100%;
  }
  header {
+    padding: 20px 16px;
 box-sizing: border-box;
 background: #7F55B1;
 border: 1px solid #000000;
+text-align: center;
+h1{
+    color: white;
+}
 }
