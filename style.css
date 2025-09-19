@@ -28,6 +28,7 @@ h1{
 }
 .paragraph_title{
  background-color: #F49BAB;
+ border-radius: 6px;
  display: inline-block;
 }
 .p {
