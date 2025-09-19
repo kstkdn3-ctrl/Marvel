@@ -1,7 +1,7 @@
 body {
-    background-color:9B7EBD;
-    margin:0;
+    background-color:#9B7EBD;
     font-family: sans-serif;
+    font-size:23px;
 }
 .menu-elements {
 font-family: 'Inter';
@@ -25,4 +25,17 @@ text-align: center;
 h1{
     color: white;
 }
+}
+.paragraph_title{
+ background-color: #F49BAB;
+ display: inline-block;
+}
+.p {
+    display: flex; 
+    align-items: flex-start; 
+    gap: 15px; 
+    flex-direction: row-reverse;
+}
+.pr {
+     background-color: #7F55B1;
 }
