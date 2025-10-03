@@ -52,3 +52,12 @@ align-items: center;
 font-size: 25px;
 padding: 30px;  
 }
+.image{
+    display: block;
+    width: 100%;
+    height: auto;
+}
+.card of heroes{
+    display:block;
+    mergin-bottom: 10;
+}
