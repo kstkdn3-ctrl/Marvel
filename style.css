@@ -1,6 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Nunito:ital,wght@0,200..1000;1,200..1000&family=Story+Script&display=swap');
 body {
     background-color:#9B7EBD;
-    font-family: sans-serif;
+    font-family: "nunito";
     font-size:23px;
 }
 .menu-elements {
@@ -32,11 +33,22 @@ h1{
  display: inline-block;
 }
 .p {
-    display: flex; 
-    align-items: flex-start; 
-    gap: 15px; 
-    flex-direction: row-reverse;
+display: flex; 
+gap: 15px; 
+flex-direction: row-reverse;
+background-color: #7F55B1;
+border-radius: 50px;
+height: 400px;
+align-items: center; 
+font-size: 25px;
+padding: 20px;
 }
-.pr {
-     background-color: #7F55B1;
+ul {
+flex-direction: row-reverse;
+background-color: #f0dbff;   
+border-radius: 50px;
+height: 100px;
+align-items: center; 
+font-size: 25px;
+padding: 30px;  
 }
